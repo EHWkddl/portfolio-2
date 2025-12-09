@@ -10,9 +10,9 @@
   },
   "dependencies": {
     "@clerk/nextjs": "^6.33.7",
-    "next": "^15.2.3",
-    "react": "^19.2.1",
-    "react-dom": "^19.2.1"
+    "next": "15.2.3",
+    "react": "18.2.0",
+    "react-dom": "18.2.0"
   },
   "devDependencies": {
     "@eslint/eslintrc": "^3",
